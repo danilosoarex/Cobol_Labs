@@ -1,0 +1,12 @@
+VERIFICAR se tem café pronto
+
+SE café pronto ENTÃO
+    Servir café na xícara
+SENÃO
+    Aquecer água
+    Escaldar o filtro
+    Adicionar café no filto
+    Despejar água
+	Esperar a água secar
+    Servir café na xícara
+FIM 
